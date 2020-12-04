@@ -11,7 +11,7 @@
       {
          "id": "RSCE",
          "name_fr": "Conseil d'État",
-         "name_nl": "Raad van State",
+         "name_nl": "Raad van state",
          "name_de": "",
          "def": false
       },
@@ -118,7 +118,7 @@
       {
          "id": "EAWVL",
          "name_fr": "Tribunal de première instance de Flandre Occidentale",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg West-Vlaanderen",
          "name_de": "",
          "def": false
 
@@ -126,7 +126,7 @@
       {
          "id": "EAOVL",
          "name_fr": "Tribunal de première instance de Flandre Orientale",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Oost-Vlaanderen",
          "name_de": "",
          "def": false
 
@@ -134,7 +134,7 @@
       {
          "id": "EALIM",
          "name_fr": "Tribunal de première instance du Limbourg",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Limburg",
          "name_de": "",
          "def": false
 
@@ -142,7 +142,7 @@
       {
          "id": "EALEU",
          "name_fr": "Tribunal de première instance de Louvain",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Leuven",
          "name_de": "",
          "def": false
 
@@ -150,7 +150,7 @@
       {
          "id": "EABRL",
          "name_fr": "Tribunal de première instance néerlandophone de Bruxelles",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Brussel Nedelandstalig",
          "name_de": "",
          "def": false
 
@@ -158,7 +158,7 @@
       {
          "id": "PIBRL",
          "name_fr": "Tribunal de première instance francophone de Bruxelles",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Brussel Franstalig",
          "name_de": "",
          "def": false
 
@@ -166,7 +166,7 @@
       {
          "id": "PIHAI",
          "name_fr": "Tribunal de première instance du Hainaut",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Henegouwen",
          "name_de": "",
          "def": false
 
@@ -174,7 +174,7 @@
       {
          "id": "PINAM",
          "name_fr": "Tribunal de première instance de Namur",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Namen",
          "name_de": "",
          "def": false
 
@@ -182,7 +182,7 @@
       {
          "id": "PIEUP",
          "name_fr": "Tribunal de première instance d'Eupen",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Eupen",
          "name_de": "",
          "def": false
 
@@ -190,7 +190,7 @@
       {
          "id": "PILIE",
          "name_fr": "Tribunal de première instance de Liège",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Luik",
          "name_de": "",
          "def": false
 
@@ -198,7 +198,7 @@
       {
          "id": "PILUX",
          "name_fr": "Tribunal de première instance du Luxembourg",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Luxemburg",
          "name_de": "",
          "def": false
 
@@ -206,7 +206,7 @@
       {
          "id": "PIBRW",
          "name_fr": "Tribunal de première instance du Brabant Wallon",
-         "name_nl": "",
+         "name_nl": "Rechtbank eerste aanleg Waals-Brabant",
          "name_de": "",
          "def": false
 
@@ -219,7 +219,7 @@
    "list": [{
          "id": "ARANT",
          "name_fr": "Tribunal du travail d'Anvers",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Antwerpen",
          "name_de": "",
          "def": false
 
@@ -227,7 +227,7 @@
       {
          "id": "ARGNT",
          "name_fr": "Tribunal du travail de Gand",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Gent",
          "name_de": "",
          "def": false
 
@@ -235,7 +235,7 @@
       {
          "id": "ARLEU",
          "name_fr": "Tribunal du travail de Louvain",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Leuven",
          "name_de": "",
          "def": false
 
@@ -243,7 +243,7 @@
       {
          "id": "ARBRL",
          "name_fr": "Tribunal du travail néerlandophone de Bruxelles",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Brussel Nederlandstalig",
          "name_de": "",
          "def": false
 
@@ -251,7 +251,7 @@
       {
          "id": "TTBRL",
          "name_fr": "Tribunal du travail francophone de Bruxelles",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Brussel Franstalig",
          "name_de": "",
          "def": false
 
@@ -259,7 +259,7 @@
       {
          "id": "TTHAI",
          "name_fr": "Tribunal du travail du Hainaut",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Henegouwen",
          "name_de": "",
          "def": false
 
@@ -267,7 +267,7 @@
       {
          "id": "TTLIE",
          "name_fr": "Tribunal du travail de Liège",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Luik",
          "name_de": "",
          "def": false
 
@@ -275,7 +275,7 @@
       {
          "id": "TTBRW",
          "name_fr": "Tribunal du travail du Brabant Wallon",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Waals-Brabant",
          "name_de": "",
          "def": false
 
@@ -283,7 +283,7 @@
       {
          "id": "TREUP",
          "name_fr": "Tribunal du travail d'Eupen",
-         "name_nl": "",
+         "name_nl": "Arbeidsrechtbank Eupen",
          "name_de": "",
          "def": false
 
@@ -304,7 +304,7 @@
       {
          "id": "ORGNT",
          "name_fr": "Tribunal de l'entreprise de Gand",
-         "name_nl": "",
+         "name_nl": "Ondernemingsrechtbank Gent",
          "name_de": "",
          "def": false
 
@@ -312,7 +312,7 @@
       {
          "id": "ORBRL",
          "name_fr": "Tribunal de l'entreprise néerlandophone de Bruxelles",
-         "name_nl": "",
+         "name_nl": "Ondernemingsrechtbank Brussel Nederlandstalig",
          "name_de": "",
          "def": false
 
@@ -320,7 +320,7 @@
       {
          "id": "ORLEU",
          "name_fr": "Tribunal de l'entreprise de Louvain",
-         "name_nl": "",
+         "name_nl": "Ondernemingsrechtbank Leuven",
          "name_de": "",
          "def": false
 
@@ -328,7 +328,7 @@
       {
          "id": "TEBRL",
          "name_fr": "Tribunal de l'entreprise francophone de Bruxelles ",
-         "name_nl": "",
+         "name_nl": "Ondernemingsrechtbank Brussel Franstalig",
          "name_de": "",
          "def": false
 
@@ -336,7 +336,7 @@
       {
          "id": "TELIE",
          "name_fr": "Tribunal de l'entreprise de Liège",
-         "name_nl": "",
+         "name_nl": "Ondernemingsrechtbank Luik",
          "name_de": "",
          "def": false
 
@@ -344,7 +344,7 @@
       {
          "id": "TEBRW",
          "name_fr": "Tribunal de l'entreprise du Brabant Wallon ",
-         "name_nl": "",
+         "name_nl": "Ondernemingsrechtbank Waals-Brabant",
          "name_de": "",
          "def": false
 
@@ -352,7 +352,7 @@
       {
          "id": "TEHAI",
          "name_fr": "Tribunal de l'entreprise du Hainaut",
-         "name_nl": "",
+         "name_nl": "Ondernemingsrechtbank Henegouwen",
          "name_de": "",
          "def": false
 
@@ -360,7 +360,7 @@
       {
          "id": "TEEUP",
          "name_fr": "Tribunal de l'entreprise d'Eupen",
-         "name_nl": "",
+         "name_nl": "Ondernemingsrechtbank Eupen",
          "name_de": "",
          "def": false
 
@@ -606,7 +606,7 @@
    "label_nl": "Verschillende",
    "list": [{
          "id": "NTRCND",
-         "name_fr": "Conseil national de discipline ",
+         "name_fr": "Conseil national de discipline",
          "name_nl": "",
          "name_de": "",
          "def": false
@@ -614,16 +614,16 @@
       },
       {
          "id": "GBAPE",
-         "name_fr": "Autorité de protection des données ",
-         "name_nl": "",
-         "name_de": "",
+         "name_fr": "Autorité de protection des données",
+         "name_nl": "Gegevensbeschermingsautoriteit",
+         "name_de": "datenschutzbehorde",
          "def": false
 
       },
       {
          "id": "COPRIV",
          "name_fr": "Commission pour la Protection de la Vie privée",
-         "name_nl": "",
+         "name_nl": "Privacycommissie",
          "name_de": "",
          "def": false
 
@@ -631,7 +631,7 @@
       {
          "id": "COHSAV",
          "name_fr": "Commission pour l'aide financière aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels",
-         "name_nl": "",
+         "name_nl": "Commissie voor Financiële Hulp aan Slachtoffers van Opzettelijke Gewelddaden en aan de Occasionele Redders",
          "name_de": "",
          "def": false
 
