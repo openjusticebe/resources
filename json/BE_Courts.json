@@ -1,25 +1,26 @@
 [{
    "label_fr": "Juridictions suprêmes",
    "label_nl": "Hooggerechtshoven",
+   "label_nl": "Verfassungsgerichtshof",
    "list": [{
          "id": "GHCC",
          "name_fr": "Cour Constitutionnelle",
          "name_nl": "Grondwettelijk Hof",
-         "name_de": "",
+         "name_de": "Verfassungsgerichtshof",
          "def": false
       },
       {
          "id": "RSCE",
          "name_fr": "Conseil d'État",
          "name_nl": "Raad van state",
-         "name_de": "",
+         "name_de": "Staatsrat",
          "def": false
       },
       {
          "id": "CASS",
          "name_fr": "Cour de Cassation",
          "name_nl": "Hof van Cassatie",
-         "name_de": "",
+         "name_de": "Kassationshof",
          "def": false
       }
    ]
@@ -27,39 +28,40 @@
 {
    "label_fr": "Cour d'appel",
    "label_nl": "Hof van beroep",
+   "label_de": "Appellationshof",
    "list": [{
          "id": "CABRL",
          "name_fr": "Cour d'appel de Bruxelles",
          "name_nl": "Hov van Beroep Brussel",
-         "name_de": "",
+         "name_de": "Appellationshof Brussel",
          "def": false
       },
       {
          "id": "CALIE",
          "name_fr": "Cour d'appel de Liège",
          "name_nl": "Hof van Beroep Luik",
-         "name_de": "",
+         "name_de": "Appellationshof Luttich",
          "def": "fr"
       },
       {
          "id": "CAMON",
          "name_fr": "Cour d'appel de Mons",
          "name_nl": "Hof van Beroep Bergen",
-         "name_de": "",
+         "name_de": "Appellationshof Mons",
          "def": "fr"
       },
       {
          "id": "HBANT",
          "name_fr": "Cour d'appel d'Anvers",
          "name_nl": "Hof van Beroep Antwerpen",
-         "name_de": "",
+         "name_de": "Appellationshof Antwerpen",
          "def": "nl"
       },
       {
          "id": "HBGNT",
          "name_fr": "Cour d'appel de Gand",
          "name_nl": "Hof van Beroep Gent",
-         "name_de": "",
+         "name_de": "Appellationshof Gent",
          "def": "nl"
       }
    ]
@@ -67,39 +69,40 @@
 {
    "label_fr": "Cour du travail",
    "label_nl": "Arbeidshof",
+   "label_de": "Arbeitsgerichtshof",
    "list": [{
          "id": "CTBRL",
          "name_fr": "Cour du travail de Bruxelles",
          "name_nl": "Arbeidshof Brussel",
-         "name_de": "",
+         "name_de": "Arbeitsgerichtshof Brussel",
          "def": "nl"
       },
       {
          "id": "AHANT",
          "name_fr": "Cour du travail d'Anvers",
          "name_nl": "Arbeidshof Antwerpen",
-         "name_de": "",
+         "name_de": "Arbeitsgerichtshof Antwerpen",
          "def": "nl"
       },
       {
          "id": "AHGNT",
          "name_fr": "Cour du travail de Gand",
          "name_nl": "Arbeidshof Gent",
-         "name_de": "",
+         "name_de": "Arbeitsgerichtshof Gent",
          "def": "nl"
       },
       {
          "id": "CTLIE",
          "name_fr": "Cour du travail de Liège",
          "name_nl": "Arbeidshof Luik",
-         "name_de": "",
+         "name_de": "Arbeitsgerichtshof Luttich",
          "def": "nl"
       },
       {
          "id": "CTMON",
          "name_fr": "Cour du travail de Mons",
          "name_nl": "Arbeidshof Bergen",
-         "name_de": "",
+         "name_de": "Arbeitsgerichtshof Mons",
          "def": "nl"
       }
    ]
@@ -107,11 +110,12 @@
 {
    "label_fr": "Tribunaux de première instance",
    "label_nl": "Rechtbank van eerste aanleg",
+   "label_de": "Gericht Erster Instanz",
    "list": [{
          "id": "EAANT",
          "name_fr": "Tribunal de première instance d'Anvers",
          "name_nl": "Rechtbank eerste aanleg Antwerpen",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Antwerpen",
          "def": false
 
       },
@@ -119,7 +123,7 @@
          "id": "EAWVL",
          "name_fr": "Tribunal de première instance de Flandre Occidentale",
          "name_nl": "Rechtbank eerste aanleg West-Vlaanderen",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Westflandern",
          "def": false
 
       },
@@ -127,7 +131,7 @@
          "id": "EAOVL",
          "name_fr": "Tribunal de première instance de Flandre Orientale",
          "name_nl": "Rechtbank eerste aanleg Oost-Vlaanderen",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Ostflandern",
          "def": false
 
       },
@@ -135,7 +139,7 @@
          "id": "EALIM",
          "name_fr": "Tribunal de première instance du Limbourg",
          "name_nl": "Rechtbank eerste aanleg Limburg",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Limburg",
          "def": false
 
       },
@@ -143,7 +147,7 @@
          "id": "EALEU",
          "name_fr": "Tribunal de première instance de Louvain",
          "name_nl": "Rechtbank eerste aanleg Leuven",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Lowen",
          "def": false
 
       },
@@ -151,7 +155,7 @@
          "id": "EABRL",
          "name_fr": "Tribunal de première instance néerlandophone de Bruxelles",
          "name_nl": "Rechtbank eerste aanleg Brussel Nedelandstalig",
-         "name_de": "",
+         "name_de": "Niederländischsprachiges Gericht Erster Instanz Brussel",
          "def": false
 
       },
@@ -159,7 +163,7 @@
          "id": "PIBRL",
          "name_fr": "Tribunal de première instance francophone de Bruxelles",
          "name_nl": "Rechtbank eerste aanleg Brussel Franstalig",
-         "name_de": "",
+         "name_de": "Französischsprachiges Gericht Erster Instanz Brussel",
          "def": false
 
       },
@@ -167,7 +171,7 @@
          "id": "PIHAI",
          "name_fr": "Tribunal de première instance du Hainaut",
          "name_nl": "Rechtbank eerste aanleg Henegouwen",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Hennegau",
          "def": false
 
       },
@@ -175,7 +179,7 @@
          "id": "PINAM",
          "name_fr": "Tribunal de première instance de Namur",
          "name_nl": "Rechtbank eerste aanleg Namen",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Namur",
          "def": false
 
       },
@@ -183,7 +187,7 @@
          "id": "PIEUP",
          "name_fr": "Tribunal de première instance d'Eupen",
          "name_nl": "Rechtbank eerste aanleg Eupen",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Eupen",
          "def": false
 
       },
@@ -191,7 +195,7 @@
          "id": "PILIE",
          "name_fr": "Tribunal de première instance de Liège",
          "name_nl": "Rechtbank eerste aanleg Luik",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Luttich",
          "def": false
 
       },
@@ -199,7 +203,7 @@
          "id": "PILUX",
          "name_fr": "Tribunal de première instance du Luxembourg",
          "name_nl": "Rechtbank eerste aanleg Luxemburg",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Luxemburg",
          "def": false
 
       },
@@ -207,7 +211,7 @@
          "id": "PIBRW",
          "name_fr": "Tribunal de première instance du Brabant Wallon",
          "name_nl": "Rechtbank eerste aanleg Waals-Brabant",
-         "name_de": "",
+         "name_de": "Gericht Erster Instanz Wallonisch-Brabant",
          "def": false
 
       }
@@ -216,11 +220,12 @@
 {
    "label_fr": "Tribunal du travail",
    "label_nl": "Arbeidsrechtbank",
+   "label_de": "Arbeitsgericht",
    "list": [{
          "id": "ARANT",
          "name_fr": "Tribunal du travail d'Anvers",
          "name_nl": "Arbeidsrechtbank Antwerpen",
-         "name_de": "",
+         "name_de": "Arbeitsgericht Antwerpen",
          "def": false
 
       },
@@ -228,7 +233,7 @@
          "id": "ARGNT",
          "name_fr": "Tribunal du travail de Gand",
          "name_nl": "Arbeidsrechtbank Gent",
-         "name_de": "",
+         "name_de": "Arbeitsgericht Gent",
          "def": false
 
       },
@@ -236,7 +241,7 @@
          "id": "ARLEU",
          "name_fr": "Tribunal du travail de Louvain",
          "name_nl": "Arbeidsrechtbank Leuven",
-         "name_de": "",
+         "name_de": "Arbeitsgericht Lowen",
          "def": false
 
       },
@@ -244,7 +249,7 @@
          "id": "ARBRL",
          "name_fr": "Tribunal du travail néerlandophone de Bruxelles",
          "name_nl": "Arbeidsrechtbank Brussel Nederlandstalig",
-         "name_de": "",
+         "name_de": "Niederländischsprachiges Arbeitsgericht Brussel",
          "def": false
 
       },
@@ -252,7 +257,7 @@
          "id": "TTBRL",
          "name_fr": "Tribunal du travail francophone de Bruxelles",
          "name_nl": "Arbeidsrechtbank Brussel Franstalig",
-         "name_de": "",
+         "name_de": "Französischsprachiges Arbeitsgericht Brussel",
          "def": false
 
       },
@@ -260,7 +265,7 @@
          "id": "TTHAI",
          "name_fr": "Tribunal du travail du Hainaut",
          "name_nl": "Arbeidsrechtbank Henegouwen",
-         "name_de": "",
+         "name_de": "Arbeitsgericht Hennegau",
          "def": false
 
       },
@@ -268,7 +273,7 @@
          "id": "TTLIE",
          "name_fr": "Tribunal du travail de Liège",
          "name_nl": "Arbeidsrechtbank Luik",
-         "name_de": "",
+         "name_de": "Arbeitsgericht Luttich",
          "def": false
 
       },
@@ -276,7 +281,7 @@
          "id": "TTBRW",
          "name_fr": "Tribunal du travail du Brabant Wallon",
          "name_nl": "Arbeidsrechtbank Waals-Brabant",
-         "name_de": "",
+         "name_de": "Arbeitsgericht Wallonisch-Brabant",
          "def": false
 
       },
@@ -284,7 +289,7 @@
          "id": "TREUP",
          "name_fr": "Tribunal du travail d'Eupen",
          "name_nl": "Arbeidsrechtbank Eupen",
-         "name_de": "",
+         "name_de": "Arbeitsgericht Eupen",
          "def": false
 
       }
@@ -293,11 +298,12 @@
 {
    "label_fr": "Tribunal de l'entreprise",
    "label_nl": "Ondernemingsrechtbank",
+   "label_de": "Unternehmensgericht",
    "list": [{
          "id": "ORANT",
          "name_fr": "Tribunal de l'entreprise d'Anvers",
          "name_nl": "Ondernemingsrechtbank Antwerpen",
-         "name_de": "",
+         "name_de": "Unternehmensgericht Antwerpen",
          "def": false
 
       },
@@ -305,7 +311,7 @@
          "id": "ORGNT",
          "name_fr": "Tribunal de l'entreprise de Gand",
          "name_nl": "Ondernemingsrechtbank Gent",
-         "name_de": "",
+         "name_de": "Unternehmensgericht Gent",
          "def": false
 
       },
@@ -313,7 +319,7 @@
          "id": "ORBRL",
          "name_fr": "Tribunal de l'entreprise néerlandophone de Bruxelles",
          "name_nl": "Ondernemingsrechtbank Brussel Nederlandstalig",
-         "name_de": "",
+         "name_de": "Niederländischsprachiges Unternehmensgericht Brussel",
          "def": false
 
       },
@@ -321,7 +327,7 @@
          "id": "ORLEU",
          "name_fr": "Tribunal de l'entreprise de Louvain",
          "name_nl": "Ondernemingsrechtbank Leuven",
-         "name_de": "",
+         "name_de": "Unternehmensgericht Lowen",
          "def": false
 
       },
@@ -329,7 +335,7 @@
          "id": "TEBRL",
          "name_fr": "Tribunal de l'entreprise francophone de Bruxelles ",
          "name_nl": "Ondernemingsrechtbank Brussel Franstalig",
-         "name_de": "",
+         "name_de": "Französischsprachiges Unternehmensgericht Brussel",
          "def": false
 
       },
@@ -337,7 +343,7 @@
          "id": "TELIE",
          "name_fr": "Tribunal de l'entreprise de Liège",
          "name_nl": "Ondernemingsrechtbank Luik",
-         "name_de": "",
+         "name_de": "Unternehmensgericht Luttich",
          "def": false
 
       },
@@ -345,7 +351,7 @@
          "id": "TEBRW",
          "name_fr": "Tribunal de l'entreprise du Brabant Wallon ",
          "name_nl": "Ondernemingsrechtbank Waals-Brabant",
-         "name_de": "",
+         "name_de": "Unternehmensgericht Wallonisch-Brabant",
          "def": false
 
       },
@@ -353,7 +359,7 @@
          "id": "TEHAI",
          "name_fr": "Tribunal de l'entreprise du Hainaut",
          "name_nl": "Ondernemingsrechtbank Henegouwen",
-         "name_de": "",
+         "name_de": "Unternehmensgericht Hennegau",
          "def": false
 
       },
@@ -361,7 +367,7 @@
          "id": "TEEUP",
          "name_fr": "Tribunal de l'entreprise d'Eupen",
          "name_nl": "Ondernemingsrechtbank Eupen",
-         "name_de": "",
+         "name_de": "Unternehmensgericht Eupen",
          "def": false
 
       }
@@ -370,11 +376,12 @@
 {
    "label_fr": "Tribunal de police",
    "label_nl": "Politierechtbank",
+   "label_de": "Polizeigericht",
    "list": [{
          "id": "PRANT",
          "name_fr": "Tribunal de police d'Anvers",
          "name_nl": "Politierechtbank Antwerpen",
-         "name_de": "",
+         "name_de": "Polizeigericht Antwerpen",
          "def": false
 
       },
@@ -382,7 +389,7 @@
          "id": "PRWVL",
          "name_fr": "Tribunal de police de Flandre Occidentale",
          "name_nl": "Politierechtbank West-Vlaanderen",
-         "name_de": "",
+         "name_de": "Polizeigericht Westflandern",
          "def": false
 
       },
@@ -390,7 +397,7 @@
          "id": "PROVL",
          "name_fr": "Tribunal de police de Flandre Orientale",
          "name_nl": "Politierechtbank Oost-Vlaanderen",
-         "name_de": "",
+         "name_de": "Polizeigericht Ostflandern",
          "def": false
 
       },
@@ -398,7 +405,7 @@
          "id": "PRLIM",
          "name_fr": "Tribunal de police du Limbourg",
          "name_nl": "Politierechtbank Limburg",
-         "name_de": "",
+         "name_de": "Polizeigericht Limburg",
          "def": false
 
       },
@@ -406,7 +413,7 @@
          "id": "PRLEU",
          "name_fr": "Tribunal de police de Louvain",
          "name_nl": "Politierechtbank Leuven",
-         "name_de": "",
+         "name_de": "Polizeigericht Löwen",
          "def": false
 
       },
@@ -414,7 +421,7 @@
          "id": "PRHAL",
          "name_fr": "Tribunal de police de Halle",
          "name_nl": "Politierechtbank Halle",
-         "name_de": "",
+         "name_de": "Polizeigericht Halle",
          "def": false
 
       },
@@ -422,7 +429,7 @@
          "id": "PRVIL",
          "name_fr": "Tribunal de police de Vilvoorde",
          "name_nl": "Politierechtbank Vilvoorde",
-         "name_de": "",
+         "name_de": "Polizeigericht Vilvoorde",
          "def": false
 
       },
@@ -430,7 +437,7 @@
          "id": "PRBRL",
          "name_fr": "Tribunal de police néerlandophone de Bruxelles",
          "name_nl": "Nederlandstalige politierechtbank Brussel",
-         "name_de": "",
+         "name_de": "Niederländischsprachiges Politierechtbank Brüssel",
          "def": false
 
       },
@@ -438,7 +445,7 @@
          "id": "TPBRL",
          "name_fr": "Tribunal de police francophone de Bruxelles",
          "name_nl": "Franstalige politierechtbank Brussel",
-         "name_de": "",
+         "name_de": "Französischsprachiges Politierechtbank Brüssel",
          "def": false
 
       },
@@ -446,7 +453,7 @@
          "id": "TPHAI",
          "name_fr": "Tribunal de police du Hainaut",
          "name_nl": "Politierechtbank Henegouwen",
-         "name_de": "",
+         "name_de": "Polizeigericht Hennegau",
          "def": false
 
       },
@@ -454,7 +461,7 @@
          "id": "TPNAM",
          "name_fr": "Tribunal de police de Namur",
          "name_nl": "Politierechtbank Namen",
-         "name_de": "",
+         "name_de": "Polizeigericht Namur",
          "def": false
 
       },
@@ -462,7 +469,7 @@
          "id": "TPLIE",
          "name_fr": "Tribunal de police de l'arrondissement de Liège",
          "name_nl": "Politierechtbank Luik",
-         "name_de": "",
+         "name_de": "Polizeigericht Lüttich",
          "def": false
 
       },
@@ -470,7 +477,7 @@
          "id": "TPEUP",
          "name_fr": "Tribunal de police d'Eupen",
          "name_nl": "Politierechtbank Eupen",
-         "name_de": "",
+         "name_de": "Polizeigericht Eupen",
          "def": false
 
       },
@@ -478,7 +485,7 @@
          "id": "TPLUX",
          "name_fr": "Tribunal de police du Luxembourg",
          "name_nl": "Politierechtbank Luxemburg",
-         "name_de": "",
+         "name_de": "Polizeigericht Luxemburg",
          "def": false
 
       },
@@ -486,7 +493,7 @@
          "id": "TPBRW",
          "name_fr": "Tribunal de police du Brabant Wallon",
          "name_nl": "Politierechtbank Waals Brabant",
-         "name_de": "",
+         "name_de": "Polizeigericht Wallonisch-Brabant",
          "def": false
 
       }
@@ -495,11 +502,12 @@
 {
    "label_fr": "Justice de paix",
    "label_nl": "Vredegerecht",
+   "label_de": "Friedensgericht",
    "list": [{
          "id": "VGANT",
          "name_fr": "Anvers",
          "name_nl": "Antwerpen",
-         "name_de": "",
+         "name_de": "Antwerpen",
          "def": false
 
       },
@@ -507,7 +515,7 @@
          "id": "VGWVL",
          "name_fr": "Flandre Occidentale",
          "name_nl": "West-Vlaanderen",
-         "name_de": "",
+         "name_de": "Westflandern",
          "def": false
 
       },
@@ -515,7 +523,7 @@
          "id": "VGOVL",
          "name_fr": "Flandre Orientale",
          "name_nl": "Oost-Vlaanderen",
-         "name_de": "",
+         "name_de": "Ostflandern",
          "def": false
 
       },
@@ -523,7 +531,7 @@
          "id": "VGLIM",
          "name_fr": "Limbourg",
          "name_nl": "Limburg",
-         "name_de": "",
+         "name_de": "Limburg",
          "def": false
 
       },
@@ -531,7 +539,7 @@
          "id": "VGLEU",
          "name_fr": "Louvain",
          "name_nl": "Leuven",
-         "name_de": "",
+         "name_de": "Lowen",
          "def": false
 
       },
@@ -539,7 +547,7 @@
          "id": "VGBRL",
          "name_fr": "Bruxelles - néerlandophone",
          "name_nl": "Brussel - Nederlandstalig",
-         "name_de": "",
+         "name_de": "Brussel - Niederländisch",
          "def": false
 
       },
@@ -547,7 +555,7 @@
          "id": "JPBRL",
          "name_fr": "Bruxelles - francophone",
          "name_nl": "Brussel - Franstalig",
-         "name_de": "",
+         "name_de": "Brussel - Französisch",
          "def": false
 
       },
@@ -555,7 +563,7 @@
          "id": "JPHAI",
          "name_fr": "Hainaut",
          "name_nl": "Henegouwen",
-         "name_de": "",
+         "name_de": "Hennegau",
          "def": false
 
       },
@@ -563,7 +571,7 @@
          "id": "JPNAM",
          "name_fr": "Namur",
          "name_nl": "Namen",
-         "name_de": "",
+         "name_de": "Namur",
          "def": false
 
       },
@@ -571,7 +579,7 @@
          "id": "JPLIE",
          "name_fr": "Liège",
          "name_nl": "Luik",
-         "name_de": "",
+         "name_de": "Lüttich",
          "def": false
 
       },
@@ -579,7 +587,7 @@
          "id": "JPEUP",
          "name_fr": "Eupen",
          "name_nl": "Eupen",
-         "name_de": "",
+         "name_de": "Eupen",
          "def": false
 
       },
@@ -587,7 +595,7 @@
          "id": "JPLUX",
          "name_fr": "Luxembourg",
          "name_nl": "Luxemburg",
-         "name_de": "",
+         "name_de": "Luxemburg",
          "def": false
 
       },
@@ -595,7 +603,7 @@
          "id": "JPBRW",
          "name_fr": "Brabant Wallon",
          "name_nl": "Waals Brabant",
-         "name_de": "",
+         "name_de": "Wallonisch-Brabant",
          "def": false
 
       }
@@ -624,7 +632,7 @@
          "id": "COPRIV",
          "name_fr": "Commission pour la Protection de la Vie privée",
          "name_nl": "Privacycommissie",
-         "name_de": "",
+         "name_de": "Kommission für den Schutz des Privatlebens",
          "def": false
 
       },
@@ -632,7 +640,7 @@
          "id": "COHSAV",
          "name_fr": "Commission pour l'aide financière aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels",
          "name_nl": "Commissie voor Financiële Hulp aan Slachtoffers van Opzettelijke Gewelddaden en aan de Occasionele Redders",
-         "name_de": "",
+         "name_de": "Kommission für die finanzielle Unterstützung von Opfern vorsätzlicher Gewalttaten und von Gelegenheitsrettern",
          "def": false
 
       },
@@ -648,14 +656,14 @@
          "id": "non_listed",
          "name_fr": "Non répertorié",
          "name_nl": "Niet vermeld",
-         "name_de": "",
+         "name_de": "Nicht aufgeführt",
          "def": false
       },
       {
          "id": "unknown",
          "name_fr": "Ne sait pas",
          "name_nl": "Weet het niet",
-         "name_de": "",
+         "name_de": "weiß es nicht",
          "def": false
       }
    ]
