@@ -11,7 +11,7 @@
                 "name_de": "Verfassungsgerichtshof",
                 "def": false,
                 "court_href": "https://www.const-court.be",
-                "logo_href": "https://www.const-court.be/_nuxt/img/logo-const.b97c002.png",
+                "logo_href": "https://www.const-court.be/_nuxt/img/logo-const.b97c002.png"
             },
             {
                 "id": "RSCE",
@@ -20,7 +20,7 @@
                 "name_de": "Staatsrat",
                 "def": false,
                 "court_href": "http://www.raadvst-consetat.be",
-                "logo_href": "http://www.raadvst-consetat.be/a/s/logo.gif?v=41",
+                "logo_href": "http://www.raadvst-consetat.be/a/s/logo.gif?v=41"
             },
             {
                 "id": "CASS",
@@ -29,7 +29,7 @@
                 "name_de": "Kassationshof",
                 "def": false,
                 "court_href": null,
-                "logo_href": null,
+                "logo_href": null
             }
         ]
     },
