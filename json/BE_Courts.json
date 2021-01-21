@@ -710,8 +710,8 @@
             {
                 "id": "NTRCND",
                 "name_fr": "Conseil national de discipline",
-                "name_nl": "",
-                "name_de": "",
+                "name_nl": "Nationale Tuchtraad",
+                "name_de": "Nationaler Disziplinarrat",
                 "def": false,
                 "court_href": null,
                 "logo_href": null
@@ -720,7 +720,7 @@
                 "id": "GBAPE",
                 "name_fr": "Autorité de protection des données",
                 "name_nl": "Gegevensbeschermingsautoriteit",
-                "name_de": "datenschutzbehorde",
+                "name_de": "Datenschutzbehörde",
                 "def": false,
                 "court_href": null,
                 "logo_href": null
@@ -746,8 +746,8 @@
             {
                 "id": "COVHDP",
                 "name_fr": "Commission d'indemnisation de la détention préventive inopérante",
-                "name_nl": "",
-                "name_de": "",
+                "name_nl": "Compensatiecommissie voor voorlopige hechtenis buiten werking",
+                "name_de": "Entschädigungskommission für Untersuchungshaft nicht funktionsfähig",
                 "def": false,
                 "court_href": null,
                 "logo_href": null
