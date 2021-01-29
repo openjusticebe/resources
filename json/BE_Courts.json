@@ -404,13 +404,13 @@
                 "name_fr": "Tribunal de l'entreprise de Liège",
                 "name_nl": "Ondernemingsrechtbank Luik",
                 "name_de": "Unternehmensgericht Luttich",
-                "def": false,
+                "def": "fr",
                 "court_href": null,
                 "logo_href": null
             },
             {
                 "id": "TEBRW",
-                "name_fr": "Tribunal de l'entreprise du Brabant Wallon ",
+                "name_fr": "Tribunal de l'entreprise du Brabant Wallon",
                 "name_nl": "Ondernemingsrechtbank Waals-Brabant",
                 "name_de": "Unternehmensgericht Wallonisch-Brabant",
                 "def": "fr",
@@ -678,7 +678,7 @@
                 "name_fr": "Eupen",
                 "name_nl": "Eupen",
                 "name_de": "Eupen",
-                "def": false,
+                "def": "de",
                 "court_href": null,
                 "logo_href": null
             },
@@ -757,15 +757,6 @@
                 "name_fr": "Non répertorié",
                 "name_nl": "Niet vermeld",
                 "name_de": "Nicht aufgeführt",
-                "def": false,
-                "court_href": null,
-                "logo_href": null
-            },
-            {
-                "id": "unknown",
-                "name_fr": "Ne sait pas",
-                "name_nl": "Weet het niet",
-                "name_de": "weiß es nicht",
                 "def": false,
                 "court_href": null,
                 "logo_href": null
