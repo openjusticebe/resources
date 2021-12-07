@@ -726,6 +726,15 @@
                 "logo_href": null
             },
             {
+                "id": "GBAPD",
+                "name_fr": "Autorité de protection des données",
+                "name_nl": "Gegevensbeschermingsautoriteit",
+                "name_de": "Datenschutzbehörde",
+                "def": false,
+                "court_href": "https://www.autoriteprotectiondonnees.be",
+                "logo_href": "https://www.gegevensbeschermingsautoriteit.be/bundles/emsch_assets/img/logo.svg"
+            },
+            {
                 "id": "COPRIV",
                 "name_fr": "Commission pour la Protection de la Vie privée",
                 "name_nl": "Privacycommissie",
